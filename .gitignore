@@ -1,0 +1,6 @@
+.DS_Store
+*.log
+
+# Local ChatGPT project mirror files are not part of the published project.
+/AGENTS.md
+/sources/
