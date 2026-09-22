@@ -4,3 +4,8 @@
 # Local ChatGPT project mirror files are not part of the published project.
 /AGENTS.md
 /sources/
+/Change profiles/AGENTS.md
+/Change profiles/sources/
+
+# Local release archives and verification reports.
+/releases/
